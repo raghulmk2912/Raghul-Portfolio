@@ -1,6 +1,6 @@
 {
   "name": "my-project",
-  "homepage": "https://github.com/raghulmk2912/Raghul-Portfolio.git",
+  "homepage": "https://RaghulMK03.github.io/Raghul-Portfolio.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^11.15.0",
